@@ -9,3 +9,6 @@ happy 1
 happy 2
 happy 3
 asdasdgGI
+
+x = 1
+
